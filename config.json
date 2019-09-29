@@ -1,0 +1,918 @@
+[
+	
+	{
+     "title":"الحوار التونسي  ",
+    "drawable":"",
+    "submenu":"اعادة البرامج ",
+    "iap":false,
+    "tabs":[
+	         {
+        "title":"الحوار التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "UCXzmMkXaHxMVlutDBD8goHA",
+          "channel"
+
+        ]
+      },  
+	          {
+        "title":"قسمة وخيان",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ep5b6zWhDCBj0WAI62SX1NN",
+          "playlist"
+
+        ]
+      },   
+	       {
+        "title":"أولاد مفيدة",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoOE0i2naOEX30mJ1cCR-QR",
+          "playlist"
+
+        ]
+      },    
+	         {
+        "title":"مشاعر",
+        "provider":"youtube",
+        "arguments":[
+          "UCieptcUtPVXXqPTJtruYlKg",
+          "channel"
+
+        ]
+      },     
+	       {
+        "title":"الحوار التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "UCXzmMkXaHxMVlutDBD8goHA",
+          "channel"
+
+        ]
+      },  
+    {
+        "title":"90 minutes (الجديد في الاسفل)",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erdokozW_o2xeRy--zYbfMX",
+          "playlist"
+
+        ]
+      },  
+	         {
+        "title":"فكرة سامي الفهري",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoJTo2ggoGFQl9AEQcRsMIx",
+          "playlist"
+
+        ]
+      },  
+	        {
+        "title":"أمور جدية",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoQ__MyhzIl5tC5XZ0imkA6",
+          "playlist"
+
+        ]
+      },  
+	        {
+        "title":"Best Of أمور جدية",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoPaSDXWe39GSya8y0RelCL",
+          "playlist"
+
+        ]
+      },  
+	       {
+        "title":"Bas les Masques",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoVbXvveFKByjI2K1MW6eVB",
+          "playlist"
+
+        ]
+      },  
+	          {
+        "title":"مع علاء",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eq8NWXxLfXf-jpt0kBoMDYl",
+          "playlist"
+
+        ]
+      },  
+	          {
+        "title":"مع علاء Best Of",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ep_f9agf4ujqx1vuT4X1CmW",
+          "playlist"
+
+        ]
+      },  
+	       {
+        "title":"DTEP",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eql7Z38NespXuPAFu7vITMN",
+          "playlist"
+
+        ]
+      },
+	          {
+        "title":"Bas les Masques BEST OF",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoeuWUtPMMOPVfePyEe97M_",
+          "playlist"
+
+        ]
+      }
+	,
+	          {
+        "title":"تونس اليوم",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erVzJM3tOBkhF2G622d2QwN",
+          "playlist"
+
+        ]
+      }    
+	    ,
+	          {
+        "title":"90 minutes",
+        "provider":"youtube",
+        "arguments":[
+          "UCJsji54afJ0NG3EggC5nFLQ",
+          "channel"
+
+        ]
+      }  
+   
+  ]
+  }
+,
+	
+
+
+	
+	
+	{
+    "title":"التاسعة",
+    "drawable":"",
+    "submenu":"اعادة البرامج ",
+    "iap":false,
+    "tabs":[
+	        {
+        "title":"التاسعة ",
+        "provider":"youtube",
+        "arguments":[
+          "UCQS3ejF2jBAhwmbGD9Q3oeA",
+          "channel"
+
+        ]
+      }
+	 
+	    ,
+	         {
+        "title":"القضية 460",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuJMxUHT30HrIIXliCVU2Qng",
+          "playlist"
+
+        ]
+      }
+	 
+	    ,
+	     {
+        "title":"الهربة",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuKTzenjq-nuS6mS8U3ygGVw",
+          "playlist"
+
+        ]
+      }
+	    ,
+	    {
+        "title":"Abdelli Showtime (في الاسفل)",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuKLhRsZiCPHCaS30yeybBEj",
+          "playlist"
+
+        ]
+      }
+	    ,
+	        {
+        "title":"عندي ما نقلك",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuIjh0qNJIggbRVRXD3MxkN9",
+          "playlist"
+
+        ]
+      }
+	     ,
+	        {
+        "title":" اضحك معنا ",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuIByb8YZhSK_jRkGC_uHBau",
+          "playlist"
+
+        ]
+      } 
+	      ,
+	        {
+        "title":"في الاسفل - ديما لاباس",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuLehOwrFqVhIxpBY9OymK1A",
+          "playlist"
+
+        ]
+      } 
+	    
+	 ,
+	      {
+        "title":"التاسعة سبور - أسفل",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuKwNDQos4jy7wBEoNcF49Dk",
+          "playlist"
+
+        ]
+      } 
+	 ,
+	          {
+        "title":"Tout Neuf",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuJmRAtWjmp842QAFMI5OQiJ",
+          "playlist"
+
+        ]
+      } 
+	 ,
+	        {
+        "title":"L'Emission",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuI8NlaqgH_G-8g_L76VcE4U",
+          "playlist"
+
+        ]
+      } 
+	 ,
+	        {
+        "title":"ما لم يقل",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuIoKlardazc7QiqIEGHnYaO",
+          "playlist"
+
+        ]
+      } ,
+	     
+	        {
+        "title":" RDV 9",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuJs1ESdGyFMEL9MrSEcyU8s",
+          "playlist"
+
+        ]
+      } ,
+	        {
+        "title":"من تونس",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuLz-qoGhBjtVw5poAycr9T-",
+          "playlist"
+
+        ]
+      } 
+	     
+  ]
+  }
+	,
+	
+	
+	
+		{
+     "title":"Mosaique FM",
+    "drawable":"",
+    "submenu":"اعادة البرامج",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":"Mosaique FM",
+        "provider":"youtube",
+        "arguments":[
+          "UC6y8T-vG9SeQ-FKOCt_o8MA",
+          "channel"
+
+        ]
+      }
+	             
+	    ]
+	}
+	,
+	
+		{
+     "title":"الوطنية",
+    "drawable":"",
+    "submenu":"اعادة البرامج",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الوطنية 1",
+        "provider":"youtube",
+        "arguments":[
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+
+        ]
+      }
+	    ,
+	       {
+        "title":" الوطنية 2",
+        "provider":"youtube",
+        "arguments":[
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
+
+        ]
+      }
+	           
+	    ]
+	}
+	,
+	
+	{
+     "title":"الحلقات  ",
+    "drawable":"",
+    "submenu":"سيتكوم تونسية ",
+    "iap":false,
+    "tabs":[
+	
+	        {
+        "title":"موسم 2005",
+        "provider":"youtube",
+        "arguments":[
+          "PL6TjelGzBJrWK9Avy3doBfhc_VjKToZ1d",
+          "playlist"
+
+        ]
+      }
+	    
+	    ,
+	        {
+        "title":"موسم 2006",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnGstKc69LrO3xZwdN0LKhYR",
+          "playlist"
+
+        ]
+      }
+	    
+	 
+	 ,
+	        {
+        "title":" موسم 2007",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFi-AOO638jza_yYGzef663",
+          "playlist"
+
+        ]
+      } ,
+	        {
+        "title":" موسم 2008",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnH7XzkWjOUlsDIR45WCZjIH",
+          "playlist"
+
+        ]
+      }
+	       ,
+	    
+		        {
+        "title":" موسم 2009",
+        "provider":"youtube",
+        "arguments":[
+          "PLtKHe7Z2QnnFIqdlGYw5_xYpQpiPooQeg",
+          "playlist"
+
+        ]
+      }     
+  ]
+  }
+,
+
+
+		{
+     "title":"أولاد مفيدة",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eouxGWNj5_CTrBrjl6RnIXO",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ermf8wpxfGnxW--TsNGrUJs",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqjxesVEePk4VKSkFKUdnWy",
+          "playlist"
+
+        ]
+      },
+	          {
+        "title":"الموسم الرابع",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoOE0i2naOEX30mJ1cCR-QR",
+          "playlist"
+
+        ]
+      }   
+	    ]
+	}
+	,
+		{
+     "title":" مكتوب",
+    "drawable":"",
+    "submenu":"مسلسلات تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLvuiC-ftvBUXDX5WO0VYGBZHqYkFExR42",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLvuiC-ftvBUU4e7LthVkUTiR-85zL4KjC",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eryEq2U4ZJP_tmoM42e0XG0",
+          "playlist"
+
+        ]
+      }
+	,
+	             {
+        "title":"الموسم الرابع",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eohI7nndcB86uu8WYSdjqEf",
+          "playlist"
+
+        ]
+      }
+	    ]
+	}
+	,
+		
+{
+     "title":"دنيا اخري",
+    "drawable":"",
+    "submenu":"سيتكوم تونسية ",
+    "iap":false,
+    "tabs":[
+	            
+	            {
+        "title":" الموسم الاول ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eqyVmGeU3lsyR0nKzHaoGvW",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثاني",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4ep_N76PBmJ6Pk5OSodDempI",
+          "playlist"
+
+        ]
+      },  
+	              {
+        "title":"الموسم الثالث",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4eoXum4THeJKpA9Z8na0w1ku",
+          "playlist"
+
+        ]
+      }
+	    
+	    ]
+	}
+	,
+	{
+    "title":"الوطنية 1",
+    "drawable":"",
+    "submenu":"الوطنية",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	  {
+    "title":"الوطنية 2",
+    "drawable":"",
+    "submenu":"بث المباريات",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":"Watania 2",
+        "provider":"youtube",
+        "arguments":[
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+
+	
+
+{
+   "title":"Nessma TV",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.nessma.tv/fr/live"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"ElHiwar Ettounsi",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.elhiwarettounsi.com/direct.html"        ]
+      }
+    ]
+
+  }
+	
+	    ,
+	 {
+   "title":"Attasia",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://www.attessia.tv/live"        ]
+      }
+    ]
+
+  }
+	,
+	 {
+   "title":"France 24 Ar",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"France 24 Ar",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmphb3aZUCNMzthlZOP3ONKXX",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	  ,
+	 {
+   "title":"France 24 Fr",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"France 24 Fr",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpgsR0u8rejodNEwpMpKWLkS",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	,
+		 {
+   "title":"الجزيرة",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+     {
+        "title":"Watania 1",
+        "provider":"youtube",
+        "arguments":[
+          "PLpuTkbiVtmpgMlMxGfzQV8oDrZ1skdonC",
+          "playlist"
+
+        ]
+     }
+	 ]
+
+  }
+	    ,
+	 {
+   "title":"Arabia",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.alarabiya.net/live-stream.html"        ]
+      }
+    ]
+
+  },
+		
+		 {
+   "title":"Sky News Arabia",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.skynewsarabia.com/livestream-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1"        ]
+      }
+    ]
+
+  },
+		 {
+   "title":"BFM TV",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://www.bfmtv.com/mediaplayer/live-video/"        ]
+      }
+    ]
+
+  },
+	 
+	
+		{
+     "title":" REPLAYS",
+    "drawable":"",
+    "submenu":"الاعادات (جميع القنوات)",
+    "iap":false,
+    "tabs":[
+	           
+	 {
+        "title":"Mosaique FM",
+        "provider":"youtube",
+        "arguments":[
+          "UC6y8T-vG9SeQ-FKOCt_o8MA",
+          "channel"
+
+        ]
+     }
+	    ,
+	    	 {
+        "title":"IFM",
+        "provider":"youtube",
+        "arguments":[
+          "UCvPW0VhnTcxYjWIxCvMlw2Q",
+          "channel"
+
+        ]
+     }
+	    ,
+     {
+        "title":"الوطنية Replays",
+        "provider":"youtube",
+        "arguments":[
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+
+        ]
+     }
+	    ,
+	 {
+        "title":"2 الوطنية",
+        "provider":"youtube",
+        "arguments":[
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
+
+        ]
+     }
+	        ,
+	 {
+        "title":"الحوار التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "UCXzmMkXaHxMVlutDBD8goHA",
+          "channel"
+
+        ]
+     }
+	          ,
+	 {
+        "title":"Nessma TV",
+        "provider":"youtube",
+        "arguments":[
+          "UC-48PCT3flS86JkLzxlTA9g",
+          "channel"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"Hannibal TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCW7MhIFzZtsVe7ud36PvNeA",
+          "channel"
+
+        ]
+     }
+	      ,
+	 {
+        "title":"الجزيرة",
+        "provider":"youtube",
+        "arguments":[
+          "UCfiwzLy-8yKzIbsmZTzxDgw",
+          "channel"
+
+        ]
+     }
+	          ,
+	 {
+        "title":"France 24",
+        "provider":"youtube",
+        "arguments":[
+          "UCdTyuXgmJkG_O8_75eqej-w",
+          "channel"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"CNEWS FR",
+        "provider":"youtube",
+        "arguments":[
+          "UCXKJrYczY2_fJEZgFPGY0HQ",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"France 24 FR",
+        "provider":"youtube",
+        "arguments":[
+          "UCCCPCZNChQdGa9EkATeye4g",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"BFMTV",
+        "provider":"youtube",
+        "arguments":[
+          "UCXwDLMDV86ldKoFVc_g8P0g",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"DOCUMENTAIRE",
+        "provider":"youtube",
+        "arguments":[
+          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"AlArabiya قناة العربية ",
+        "provider":"youtube",
+        "arguments":[
+          "UCahpxixMCwoANAftn6IxkTg",
+          "channel"
+
+        ]
+     }
+	    ]
+		}
+	,
+	 
+	
+	
+	
+	
+
+  {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"اخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.medooapps.tuni3ada.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
