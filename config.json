@@ -590,6 +590,96 @@
 	}
 	,
 	{
+    "title": "Carthage Plus",
+    "drawable":"",
+    "submenu":"Carthage +",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":" Carthage+",
+        "provider":"youtube",
+        "arguments":[
+          "UCGUJmSULytsw0igdrXvo7mw",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	{
+    "title":"الزيتونة",
+    "drawable":"",
+    "submenu":"الزيتونة",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":" Zitouna",
+        "provider":"youtube",
+        "arguments":[
+          "UCGtFpP5z1FWT0P-FrfaFk_Q",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	{
+    "title": "Al Insen",
+    "drawable":"",
+    "submenu":"Al insen",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":" Al insen",
+        "provider":"youtube",
+        "arguments":[
+          "UCHGo-gQ_H6dnFJ9XwUxgTsA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	{
+   "title": "Mtunisia",
+    "drawable":"",
+    "submenu":"Mtunisia",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":"M Tunisia",
+        "provider":"youtube",
+        "arguments":[
+          "UCz0NBDbpxAI7IIqFjhXbFyA",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+{
+      "title": "MBC The Voice",
+    "drawable":"",
+    "submenu":"MBC The Voice",
+    "iap":false,
+    "tabs":[
+	  
+	           {
+        "title":"MBC The voice",
+        "provider":"youtube",
+        "arguments":[
+          "UCBgVoRRoRuIpVwD6CfoBRag",
+          "channel"
+		]
+	       }
+	    ]
+	  }
+	,
+	{
     "title":"الوطنية 1",
     "drawable":"",
     "submenu":"الوطنية",
