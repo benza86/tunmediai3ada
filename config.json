@@ -15,11 +15,31 @@
 
         ]
       },  
-	          {
-        "title":"قسمة وخيان",
+	    
+	       {
+        "title":"الي بعدو",
         "provider":"youtube",
         "arguments":[
-          "PLFApv2COP4ep5b6zWhDCBj0WAI62SX1NN",
+          "PLFApv2COP4ep4wpyxLIuodT7BjvLSAUpJ",
+          "playlist"
+
+        ]
+      },  
+	    
+	       {
+        "title":"صفي قلبك ",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4epTgJF0j0SyiIS7B1tCtm5A",
+          "playlist"
+
+        ]
+      },  
+	          {
+        "title":"الحقائق الأربعة",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erZbnp5nOASE02He8fcLbIJ",
           "playlist"
 
         ]
@@ -43,11 +63,11 @@
         ]
       },     
 	       {
-        "title":"الحوار التونسي",
+        "title":"JDT",
         "provider":"youtube",
         "arguments":[
-          "UCXzmMkXaHxMVlutDBD8goHA",
-          "channel"
+          "PLFApv2COP4erEGQyReb6-BFurYbxTn3bq",
+          "playlist"
 
         ]
       },  
@@ -55,7 +75,7 @@
         "title":"90 minutes (الجديد في الاسفل)",
         "provider":"youtube",
         "arguments":[
-          "PLFApv2COP4erdokozW_o2xeRy--zYbfMX",
+          "PLFApv2COP4er5Ki-WkiHpzfYD0p4Oc8Gb",
           "playlist"
 
         ]
@@ -79,19 +99,10 @@
         ]
       },  
 	        {
-        "title":"Best Of أمور جدية",
+        "title":"تونس اليوم",
         "provider":"youtube",
         "arguments":[
-          "PLFApv2COP4eoPaSDXWe39GSya8y0RelCL",
-          "playlist"
-
-        ]
-      },  
-	       {
-        "title":"Bas les Masques",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4eoVbXvveFKByjI2K1MW6eVB",
+          "PLFApv2COP4epj7PI4yRpMwZeSExOF_8KR",
           "playlist"
 
         ]
