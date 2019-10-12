@@ -50,8 +50,8 @@
         "title":"90 minutes",
         "provider":"youtube",
         "arguments":[
-          "UCJsji54afJ0NG3EggC5nFLQ",
-          "channel"
+          "PLFApv2COP4er5Ki-WkiHpzfYD0p4Oc8Gb",
+          "playlist"
 
         ]
       }  ,
@@ -91,15 +91,7 @@
 
         ]
       },  
-    {
-        "title":"90 minutes (الجديد في الاسفل)",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4er5Ki-WkiHpzfYD0p4Oc8Gb",
-          "playlist"
 
-        ]
-      },  
 	         {
         "title":"فكرة سامي الفهري",
         "provider":"youtube",
