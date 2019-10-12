@@ -17,7 +17,7 @@
       },  
 	    
 	       {
-        "title":"الي بعدو",
+        "title":"( الي بعدو( في الأسفل ",
         "provider":"youtube",
         "arguments":[
           "PLFApv2COP4ep4wpyxLIuodT7BjvLSAUpJ",
@@ -35,7 +35,27 @@
 
         ]
       },  
+	 
+	     {
+        "title":"تونس اليوم",
+        "provider":"youtube",
+        "arguments":[
+          "PLFApv2COP4erVzJM3tOBkhF2G622d2QwN",
+          "playlist"
+
+        ]
+      }    
+	    ,
 	          {
+        "title":"90 minutes",
+        "provider":"youtube",
+        "arguments":[
+          "UCJsji54afJ0NG3EggC5nFLQ",
+          "channel"
+
+        ]
+      }  ,
+	    {
         "title":"الحقائق الأربعة",
         "provider":"youtube",
         "arguments":[
@@ -143,26 +163,7 @@
 
         ]
       }
-	,
-	          {
-        "title":"تونس اليوم",
-        "provider":"youtube",
-        "arguments":[
-          "PLFApv2COP4erVzJM3tOBkhF2G622d2QwN",
-          "playlist"
-
-        ]
-      }    
-	    ,
-	          {
-        "title":"90 minutes",
-        "provider":"youtube",
-        "arguments":[
-          "UCJsji54afJ0NG3EggC5nFLQ",
-          "channel"
-
-        ]
-      }  
+	
    
   ]
   }
@@ -189,7 +190,31 @@
       }
 	 
 	    ,
-	         {
+	      
+	       {
+        "title":"ديما لاباس",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuINs1G8AB0ocuyFOIZB1PeJ",
+          "playlist"
+
+        ]
+      }
+	 
+	    ,
+	       {
+        "title":"Attasia Sport",
+        "provider":"youtube",
+        "arguments":[
+          "PLTGtCMX0-RuJpVP7m8iJHhgT9P4r4GyPP&index=3",
+          "playlist"
+
+        ]
+      }
+	 
+	    ,
+	    
+	    {
         "title":"القضية 460",
         "provider":"youtube",
         "arguments":[
