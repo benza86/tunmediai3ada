@@ -394,7 +394,7 @@
 	,
 	
 	{
-     "title":"الحلقات  ",
+     "title":"شوفلي حل  ",
     "drawable":"",
     "submenu":"سيتكوم تونسية ",
     "iap":false,
@@ -627,7 +627,21 @@
 	,
 
 	
+{
+   "title":"القنوات التونسية",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"https://tunisie360.net"        ]
+      }
+    ]
 
+  },
 {
    "title":"Nessma TV",
     "drawable":"",
@@ -661,6 +675,23 @@
 	
 	    ,
 	 {
+   "title":"ElHiwar Ettounsi 2",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+"http://tunisie360.net/tv-tunisienne/elhiwar-ettounsi"        ]
+      }
+    ]
+
+  }
+	
+	    ,
+	 {
    "title":"Attasia",
     "drawable":"",
     "submenu":"بث مباشر",
@@ -675,63 +706,8 @@
     ]
 
   }
-	,
-	 {
-   "title":"France 24 Ar",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"France 24 Ar",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmphb3aZUCNMzthlZOP3ONKXX",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	  ,
-	 {
-   "title":"France 24 Fr",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"France 24 Fr",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpgsR0u8rejodNEwpMpKWLkS",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
-	,
-		 {
-   "title":"الجزيرة",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":false,
-    "tabs":[
-     {
-        "title":"Watania 1",
-        "provider":"youtube",
-        "arguments":[
-          "PLpuTkbiVtmpgMlMxGfzQV8oDrZ1skdonC",
-          "playlist"
-
-        ]
-     }
-	 ]
-
-  }
+	
+	
 	    ,
 	 {
    "title":"Arabia",
