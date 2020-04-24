@@ -11,40 +11,101 @@
         "arguments":[
           "https://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
         ]
-      },
-	      {
-        "title":"90 Minutes",
-        "provider":"webview",
-        "arguments":[
-          "https://www.elhiwarettounsi.com/emission/13/90-minutes"
-        ]
-      },
-	      {
-        "title":"Fekret Sami",
-        "provider":"webview",
-        "arguments":[
-          "https://www.elhiwarettounsi.com/emission/4/fekret-sami-fehri"
-        ]
-      },
-	      {
-        "title":"Denya okhra",
-        "provider":"webview",
-        "arguments":[
-          "https://www.elhiwarettounsi.com/serie/17/denya-okhra"
-        ]
-      },
-	      {
-        "title":"Wled Moufida",
-        "provider":"webview",
-        "arguments":[
-          "https://www.elhiwarettounsi.com/serie/12/wled-moufida"
-        ]
       }
 	  
     ]
 
   },
-	
+ {
+    "title":"التاسعة",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "https://tunisie14.tn/media/television-tunisienne/attasia-tv"
+        ]
+      },
+	         {
+        "title":"LIVE2",
+        "provider":"webview",
+        "arguments":[
+          "http://www.attessia.tv/live"
+        ]
+      }
+	    ,
+	         {
+        "title":"LIVE2",
+        "provider":"webview",
+        "arguments":[
+          "http://www.attessia.tv/live"
+        ]
+      }
+	      ,
+	         {
+        "title":"Emission",
+        "provider":"webview",
+        "arguments":[
+          "http://www.attessia.tv/programs"
+        ]
+      }
+    ]
+
+  },	
+	 {
+    "title":"الوطنية 1",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "https://tunisie14.tn/media/television-tunisienne/wataniya-1"
+        ]
+      }
+	  
+    ]
+
+  },	
+	 {
+    "title":"الوطنية 2",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "https://tunisie14.tn/media/television-tunisienne/wataniya-2"
+        ]
+      }
+	  
+    ]
+
+  },	
+	 {
+    "title":"نسمة",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://tunisie14.tn/media/television-tunisienne/nessma-tv"
+        ]
+      }
+	  
+    ]
+
+  },	
 	{
      "title":"الحوار التونسي  ",
     "drawable":"",
