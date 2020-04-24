@@ -6,10 +6,10 @@
     "iap":false,
     "tabs":[
       {
-        "title":"الحقائق الاربعة",
+        "title":"LIVE",
         "provider":"webview",
         "arguments":[
-          "https://www.elhiwarettounsi.com/emission/11/les-quatre-verites"
+          "https://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
         ]
       },
 	      {
