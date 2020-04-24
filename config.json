@@ -105,6 +105,14 @@
           "http://medooappli.xyz/denya.html"
         ]
       }
+	    ,
+	       {
+        "title":"Agent 86",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/agent86.html"
+        ]
+      }
 	  
     ]
 
