@@ -11,13 +11,6 @@
         "arguments":[
           "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
         ]
-      },
-	         {
-        "title":"LIVE3",
-        "provider":"webview",
-        "arguments":[
-          "http://www.elhiwarettounsi.com/serie/12/wled-moufida"
-        ]
       }
 	  
     ]
@@ -43,15 +36,7 @@
           "http://www.attessia.tv/live"
         ]
       }
-	    ,
-	       
-	         {
-        "title":"Emission",
-        "provider":"webview",
-        "arguments":[
-          "http://www.attessia.tv/programs"
-        ]
-      }
+	   
     ]
 
   },	
