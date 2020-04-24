@@ -11,7 +11,31 @@
         "arguments":[
           "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
         ]
+      },
+	       {
+        "title":"الحقائق الأربعة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/7a9.html"
+        ]
       }
+	    ,
+	       {
+        "title":" صفي قلبك",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/safi.html"
+        ]
+      },
+	      ,
+	       {
+        "title":" فكرة سامي الفهري",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/fekret.html"
+        ]
+      }
+	  
 	  
     ]
 
