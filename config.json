@@ -9,7 +9,7 @@
         "title":"LIVE",
         "provider":"webview",
         "arguments":[
-          "https://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
+          "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
         ]
       }
 	  
@@ -26,7 +26,7 @@
         "title":"LIVE",
         "provider":"webview",
         "arguments":[
-          "https://tunisie14.tn/media/television-tunisienne/attasia-tv"
+          "http://tunisie14.tn/media/television-tunisienne/attasia-tv"
         ]
       },
 	         {
@@ -37,14 +37,7 @@
         ]
       }
 	    ,
-	         {
-        "title":"LIVE2",
-        "provider":"webview",
-        "arguments":[
-          "http://www.attessia.tv/live"
-        ]
-      }
-	      ,
+	       
 	         {
         "title":"Emission",
         "provider":"webview",
@@ -65,7 +58,7 @@
         "title":"LIVE",
         "provider":"webview",
         "arguments":[
-          "https://tunisie14.tn/media/television-tunisienne/wataniya-1"
+          "http://tunisie14.tn/media/television-tunisienne/wataniya-1"
         ]
       }
 	  
@@ -82,7 +75,7 @@
         "title":"LIVE",
         "provider":"webview",
         "arguments":[
-          "https://tunisie14.tn/media/television-tunisienne/wataniya-2"
+          "http://tunisie14.tn/media/television-tunisienne/wataniya-2"
         ]
       }
 	  
