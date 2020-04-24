@@ -107,6 +107,23 @@
 
   },	
 	{
+    "title":"جميع القنوات العربية",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":true,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://www.tunisvista.com/medias/index.html"
+        ]
+      }
+	  
+    ]
+
+  },
+	{
      "title":"الحوار التونسي  ",
     "drawable":"",
     "submenu":"اعادة البرامج ",
