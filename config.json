@@ -3,7 +3,7 @@
     "title":"الحوار التونسي",
     "drawable":"",
     "submenu":"جميع الاعادات",
-    "iap":false,
+    "iap":true,
     "tabs":[
       {
         "title":"LIVE",
