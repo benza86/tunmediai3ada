@@ -11,6 +11,13 @@
         "arguments":[
           "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
         ]
+      },
+	         {
+        "title":"LIVE2",
+        "provider":"webview",
+        "arguments":[
+          "http://www.elhiwarettounsi.com/serie/12/wled-moufida"
+        ]
       }
 	  
     ]
