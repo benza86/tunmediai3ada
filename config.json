@@ -85,24 +85,27 @@
         ]
       },
 	       {
-        "title":"النوبة 2",
-        "provider":"webview",
-        "arguments":[
-          "http://medooappli.xyz/nouba.html"
-        ]
-      },
-	      {
         "title":"قلب الذيب",
         "provider":"webview",
         "arguments":[
           "http://medooappli.xyz/9alb.html"
         ]
       },
+	       
+	   
 	       {
         "title":"دنيا اخري",
         "provider":"webview",
         "arguments":[
           "http://medooappli.xyz/denya.html"
+        ]
+      }
+	      ,
+	       {
+        "title":"27 ",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/27.html"
         ]
       }
 	    ,
@@ -112,11 +115,45 @@
         "arguments":[
           "http://medooappli.xyz/agent86.html"
         ]
+      },
+	    {
+        "title":"النوبة 2",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/nouba.html"
+        ]
       }
+	    ,
+	    {
+        "title":"Tunis2050",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/2050.html"
+        ]
+      }
+	    
 	  
     ]
 
   },
+	
+ {
+    "title":"شوفلي حل",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/choufli.html"
+        ]
+      }
+	   
+    ]
+
+  },	
 	 {
     "title":"الوطنية 1",
     "drawable":"",
