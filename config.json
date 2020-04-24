@@ -47,10 +47,31 @@
     "iap":true,
     "tabs":[
       {
-        "title":"LIVE",
+        "title":"مسلسلات",
         "provider":"webview",
         "arguments":[
           "http://medooappli.xyz/ramadan.html"
+        ]
+      },
+	       {
+        "title":"أولاد مفيدة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/awled.html"
+        ]
+      },
+	       {
+        "title":"النوبة 2",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/nouba.html"
+        ]
+      },
+	       {
+        "title":"دنيا اخري",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/denya.html"
         ]
       }
 	  
