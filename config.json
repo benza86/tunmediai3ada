@@ -107,7 +107,7 @@
       }
 	    ,
 	       {
-        "title":"Agent 86",
+        "title":"Agent 86 ",
         "provider":"webview",
         "arguments":[
           "http://medooappli.xyz/agent86.html"
