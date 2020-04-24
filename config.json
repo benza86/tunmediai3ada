@@ -91,6 +91,13 @@
           "http://medooappli.xyz/nouba.html"
         ]
       },
+	      {
+        "title":"قلب الذيب",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/9alb.html"
+        ]
+      },
 	       {
         "title":"دنيا اخري",
         "provider":"webview",
