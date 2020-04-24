@@ -144,7 +144,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"LIVE",
+        "title":"شوفلي حل",
         "provider":"webview",
         "arguments":[
           "http://medooappli.xyz/choufli.html"
