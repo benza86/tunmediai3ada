@@ -40,6 +40,23 @@
     ]
 
   },	
+	  {
+    "title":"المسلسلات التونسية رمضان 2020",
+    "drawable":"",
+    "submenu":"بعد البث بساعة",
+    "iap":true,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ramadan.html"
+        ]
+      }
+	  
+    ]
+
+  },
 	 {
     "title":"الوطنية 1",
     "drawable":"",
