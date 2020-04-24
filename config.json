@@ -1,4 +1,49 @@
 [
+    {
+    "title":"الحوار التونسي",
+    "drawable":"",
+    "submenu":"جميع الاعادات",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"الحقائق الاربعة",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/emission/11/les-quatre-verites"
+        ]
+      },
+	      {
+        "title":"90 Minutes",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/emission/13/90-minutes"
+        ]
+      },
+	      {
+        "title":"Fekret Sami",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/emission/4/fekret-sami-fehri"
+        ]
+      },
+	      {
+        "title":"Denya okhra",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/serie/17/denya-okhra"
+        ]
+      },
+	      {
+        "title":"Wled Moufida",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/serie/12/wled-moufida"
+        ]
+      }
+	  
+    ]
+
+  },
 	
 	{
      "title":"الحوار التونسي  ",
