@@ -71,6 +71,25 @@
     ]
 
   },	
+	
+ {
+    "title":"النوبة 2",
+    "drawable":"",
+    "submenu":"النوبة",
+    "iap":false,
+    "tabs":[
+     
+	        {
+        "title":"النوبة2",
+        "provider":"webview",
+        "arguments":[
+          "https://artify.tn"
+        ]
+      }
+	   
+    ]
+
+  },	
 	  {
     "title":"المسلسلات التونسية رمضان 2020",
     "drawable":"",
@@ -121,6 +140,13 @@
         "provider":"webview",
         "arguments":[
           "http://medooappli.xyz/agent86.html"
+        ]
+      },
+	          {
+        "title":"النوبة2",
+        "provider":"webview",
+        "arguments":[
+          "https://artify.tn"
         ]
       },
 	    {
