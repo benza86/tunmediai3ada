@@ -5,18 +5,19 @@
     "submenu":"جميع الاعادات",
     "iap":true,
     "tabs":[
-	        {
-        "title":"LIVE",
-        "provider":"webview",
-        "arguments":[
-          "https://www.elhiwarettounsi.com/live"
-        ]
-      },
+	
       {
         "title":"LIVE",
         "provider":"webview",
         "arguments":[
           "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
+        ]
+      },
+	            {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/live"
         ]
       },
 	       {
