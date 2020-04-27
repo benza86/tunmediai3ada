@@ -5,6 +5,13 @@
     "submenu":"جميع الاعادات",
     "iap":true,
     "tabs":[
+	        {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/live"
+        ]
+      },
       {
         "title":"LIVE",
         "provider":"webview",
