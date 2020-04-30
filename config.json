@@ -171,6 +171,24 @@
     ]
 
   },
+	 {
+    "title":"قلبي اطمأن",
+    "drawable":"",
+    "submenu":" برامج",
+    "iap":false,
+    "tabs":[
+     
+	        {
+        "title":"النوبة2",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/qalbi.html"
+        ]
+      }
+	   
+    ]
+
+  },	
 	
  {
     "title":"شوفلي حل",
