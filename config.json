@@ -13,6 +13,13 @@
           "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
         ]
       },
+	     {
+        "title":"مسلسلات",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ramadan.html"
+        ]
+      },
 	      
 	       {
         "title":"الحقائق الأربعة",
@@ -53,6 +60,13 @@
         "provider":"webview",
         "arguments":[
           "http://tunisie14.tn/media/television-tunisienne/attasia-tv"
+        ]
+      },
+	     {
+        "title":"مسلسلات",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ramadan.html"
         ]
       },
 	         {
