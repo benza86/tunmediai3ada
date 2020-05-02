@@ -13,6 +13,13 @@
           "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
         ]
       },
+	         {
+        "title":"LIVE2",
+        "provider":"webview",
+        "arguments":[
+          "http://www.tunisvista.com/medias/el-hiwar-ettounsi-tv-online.html"
+        ]
+      },
 	     {
         "title":"مسلسلات",
         "provider":"webview",
@@ -62,6 +69,7 @@
           "http://tunisie14.tn/media/television-tunisienne/attasia-tv"
         ]
       },
+	   
 	     {
         "title":"مسلسلات",
         "provider":"webview",
