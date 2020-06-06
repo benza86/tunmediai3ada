@@ -95,9 +95,26 @@
     ]
 
   },	
+	{
+    "title":"جميع القنوات العربية",
+    "drawable":"",
+    "submenu":"بث مباشر",
+    "iap":true,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://www.tunisvista.com/medias/index.html"
+        ]
+      }
+	  
+    ]
+
+  },
 	
  {
-    "title":"الساعة العاشرة كل يوم  : النوبة 2",
+    "title":" النوبة 2",
     "drawable":"",
     "submenu":" 2النوبة",
     "iap":false,
@@ -117,7 +134,7 @@
 	  {
     "title":"المسلسلات التونسية رمضان 2020",
     "drawable":"",
-    "submenu":"بعد البث بفترة صغيرة",
+    "submenu":"رمضان 2020",
     "iap":true,
     "tabs":[
       {
@@ -280,23 +297,7 @@
     ]
 
   },	
-	{
-    "title":"جميع القنوات العربية",
-    "drawable":"",
-    "submenu":"بث مباشر",
-    "iap":true,
-    "tabs":[
-      {
-        "title":"LIVE",
-        "provider":"webview",
-        "arguments":[
-          "http://www.tunisvista.com/medias/index.html"
-        ]
-      }
-	  
-    ]
-
-  },
+	
 	{
      "title":"الحوار التونسي  ",
     "drawable":"",
