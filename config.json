@@ -20,6 +20,13 @@
           "http://www.tunisvista.com/medias/el-hiwar-ettounsi-tv-online.html"
         ]
       },
+	        {
+        "title":"البرامج اعادة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/hiw1.html"
+        ]
+      },
 	     {
         "title":"مسلسلات",
         "provider":"webview",
@@ -67,6 +74,13 @@
         "provider":"webview",
         "arguments":[
           "http://tunisie14.tn/media/television-tunisienne/attasia-tv"
+        ]
+      },
+	         {
+        "title":"البرامج اعادة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/tas1.html"
         ]
       },
 	   
