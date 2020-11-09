@@ -7,7 +7,7 @@
     "tabs":[
 	
       {
-        "title":"LIVE",
+        "title":"LIVE نعتذر المشكل من المصدر",
         "provider":"webview",
         "arguments":[
           "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
@@ -70,7 +70,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"LIVE",
+        "title":"LIVE نعتذر المشكل من المصدر",
         "provider":"webview",
         "arguments":[
           "http://tunisie14.tn/media/television-tunisienne/attasia-tv"
