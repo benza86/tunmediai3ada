@@ -97,13 +97,6 @@
         "arguments":[
           "http://www.attessia.tv/live"
         ]
-      },
-	        {
-        "title":"النوبة2",
-        "provider":"webview",
-        "arguments":[
-          "https://nouba2.artify.tn/"
-        ]
       }
 	   
     ]
