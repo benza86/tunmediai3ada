@@ -197,7 +197,8 @@
   },
 	
 	{
-    "title":"جميع القنوات العربية",
+        "title":"Mosaique FM",
+
     "drawable":"",
     "submenu":"Radio",
     "iap":true,
@@ -214,7 +215,7 @@
 
   },
 		{
-    "title":"جميع القنوات العربية",
+        "title":"I FM",
     "drawable":"",
     "submenu":"Radio",
     "iap":true,
