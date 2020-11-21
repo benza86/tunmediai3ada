@@ -83,7 +83,49 @@
           "http://medooappli.xyz/tas1.html"
         ]
       },
-	   
+	    {
+        "title":"عندي ما نقلك",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/andiman.html"
+        ]
+      },  
+	        {
+        "title":"ABDELLI SHOWTIME",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/abdelli.html"
+        ]
+      }, 
+	          {
+        "title":"وحش الشاشة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/wa7ch.html"
+        ]
+      }, 
+	         {
+		        "title":"هذه اخرتها",
+	 
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/hadiakh.html"
+        ]
+      },
+	         {
+        "title":"ديما لاباس",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/dimalabes.html"
+        ]
+      },
+	         {
+        "title":"لمن يسهر فقط",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/liman.html"
+        ]
+      },
 	     {
         "title":"مسلسلات",
         "provider":"webview",
