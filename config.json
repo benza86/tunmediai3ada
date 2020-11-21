@@ -144,6 +144,40 @@
     ]
 
   },	
+	 {
+    "title":"الوطنية 1",
+    "drawable":"",
+    "submenu":"Watania",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://tunisie14.tn/media/television-tunisienne/wataniya-1"
+        ]
+      }
+	  
+    ]
+
+  },	
+	 {
+    "title":"الوطنية 2",
+    "drawable":"",
+    "submenu":"Watania",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://tunisie14.tn/media/television-tunisienne/wataniya-2"
+        ]
+      }
+	  
+    ]
+
+  },	
 	{
     "title":"جميع القنوات العربية",
     "drawable":"",
@@ -295,40 +329,7 @@
     ]
 
   },	
-	 {
-    "title":"الوطنية 1",
-    "drawable":"",
-    "submenu":"جميع الاعادات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"LIVE",
-        "provider":"webview",
-        "arguments":[
-          "http://tunisie14.tn/media/television-tunisienne/wataniya-1"
-        ]
-      }
-	  
-    ]
-
-  },	
-	 {
-    "title":"الوطنية 2",
-    "drawable":"",
-    "submenu":"جميع الاعادات",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"LIVE",
-        "provider":"webview",
-        "arguments":[
-          "http://tunisie14.tn/media/television-tunisienne/wataniya-2"
-        ]
-      }
-	  
-    ]
-
-  },	
+	
 	 {
     "title":"نسمة",
     "drawable":"",
