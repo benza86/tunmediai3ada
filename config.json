@@ -196,24 +196,40 @@
 
   },
 	
- {
-    "title":" النوبة 2",
+	{
+    "title":"جميع القنوات العربية",
     "drawable":"",
-    "submenu":" 2النوبة",
-    "iap":false,
+    "submenu":"Radio",
+    "iap":true,
     "tabs":[
-     
-	        {
-        "title":"النوبة2",
+      {
+        "title":"Mosaique FM",
         "provider":"webview",
         "arguments":[
-          "https://nouba2.artify.tn/"
+          "http://medooappli.xyz/mosaique.html"
         ]
       }
-	   
+	  
     ]
 
-  },	
+  },
+		{
+    "title":"جميع القنوات العربية",
+    "drawable":"",
+    "submenu":"Radio",
+    "iap":true,
+    "tabs":[
+      {
+        "title":"I FM",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ifm.html"
+        ]
+      }
+	  
+    ]
+
+  },
 	  {
     "title":"المسلسلات التونسية رمضان 2020",
     "drawable":"",
