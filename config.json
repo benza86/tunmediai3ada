@@ -28,10 +28,10 @@
         ]
       },
 	     {
-        "title":"مسلسلات",
+        "title":"JDT",
         "provider":"webview",
         "arguments":[
-          "http://medooappli.xyz/ramadan.html"
+          "http://medooappli.xyz/jdt.html"
         ]
       },
 	      
@@ -56,6 +56,35 @@
         "provider":"webview",
         "arguments":[
           "http://medooappli.xyz/fekret.html"
+        ]
+      },
+	       {
+        "title":"Cash or Splash",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/cash.html"
+        ]
+      },
+	    {
+        "title":"ملا توانسة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/malla.html"
+        ]
+      },
+	      {
+        "title":"صفي قلبك",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/saffi.html"
+        ]
+      },
+	         
+	      {
+        "title":"مسلسلات",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/ramadan.html"
         ]
       }
 	  
