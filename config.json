@@ -237,24 +237,7 @@
     ]
 
   },
-		{
-        "title":"Mosaique FM LIVE",
-
-    "drawable":"",
-    "submenu":"Radio",
-    "iap":true,
-    "tabs":[
-      {
-        "title":"Mosaique FM LIVE",
-        "provider":"webview",
-        "arguments":[
-          "http://medooappli.xyz/mosaique.html"
-        ]
-      }
-	  
-    ]
-
-  },
+	
 		{
         "title":"I FM",
     "drawable":"",
