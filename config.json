@@ -166,6 +166,41 @@
 	   
     ]
 
+  },
+		 {
+    "title":"Enquete exclusive",
+    "drawable":"",
+    "submenu":"Documentaire FR",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Enquete exclusive",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/enqexc.html"
+        ]
+      }
+	  
+    ]
+
+  },	
+	
+		 {
+    "title":"Capital",
+    "drawable":"",
+    "submenu":"Documentaire FR",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Capital",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/cap.html"
+        ]
+      }
+	  
+    ]
+
   },	
 	 {
     "title":"الوطنية 1",
