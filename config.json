@@ -90,6 +90,16 @@
           "http://medooappli.xyz/livehw.html"
         ]
       }
+	      ,
+	         
+	      {
+        "title":"LIVE2",
+        "provider":"webview",
+        "arguments":[
+          "https://www.elhiwarettounsi.com/vod/live"
+        ]
+      }
+	
 	  
 	  
     ]
