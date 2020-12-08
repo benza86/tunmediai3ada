@@ -81,6 +81,15 @@
           "http://medooappli.xyz/ramadan.html"
         ]
       }
+	    ,
+	         
+	      {
+        "title":"LIVE",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/livehw.html"
+        ]
+      }
 	  
 	  
     ]
