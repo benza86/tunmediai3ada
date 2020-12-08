@@ -23,14 +23,7 @@
           "https://www.elhiwarettounsi.com/vod/live"
         ]
       }
-	    ,
-      {
-        "title":"LIVE نعتذر المشكل من المصدر",
-        "provider":"webview",
-        "arguments":[
-          "http://tunisie14.tn/media/television-tunisienne/ettounsiya-tv"
-        ]
-      },
+	 ,
 	     
 	        {
         "title":"البرامج اعادة",
