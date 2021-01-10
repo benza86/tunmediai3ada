@@ -6,7 +6,13 @@
     "iap":true,
     "tabs":[
 	 
-	         
+	    {
+        "title":"البرامج اعادة",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/hiw1.html"
+        ]
+      },       
 	      {
         "title":"LIVE",
         "provider":"webview",
@@ -25,13 +31,7 @@
       }
 	 ,
 	     
-	        {
-        "title":"البرامج اعادة",
-        "provider":"webview",
-        "arguments":[
-          "http://medooappli.xyz/hiw1.html"
-        ]
-      },
+	      
 	     {
         "title":"JDT",
         "provider":"webview",
