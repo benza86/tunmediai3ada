@@ -93,7 +93,14 @@
         ]
       }
 	   
-	
+	  ,
+	     {
+        "title":"update",
+        "provider":"webview",
+        "arguments":[
+          "http://medooappli.xyz/update.html"
+        ]
+      }
 	  
 	  
     ]
